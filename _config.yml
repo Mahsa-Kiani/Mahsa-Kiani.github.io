@@ -1,3 +1,3 @@
-	name: Mahsa Kiani, Data Scientist
-	markdown: kramdown
-	permalink: /blog/:year/:month/:day/:title
+name: Mahsa Kiani, Data Scientist
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
